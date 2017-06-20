@@ -1,2 +1,3 @@
 # hello-world
-just first trial repository
+
+Bani here, I am fond of spicy food.
